@@ -1,0 +1,14 @@
+{
+  "name": "trychalk",
+  "version": "1.0.0",
+  "description": "A project where I try the chalk npm module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
